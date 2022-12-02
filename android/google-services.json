@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676798346224",
+    "project_id": "shaiveur",
+    "storage_bucket": "shaiveur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676798346224:android:22635f9088b673c18b6335",
+        "android_client_info": {
+          "package_name": "eurobet.vivcantes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676798346224-mfein7oao68c52g20hjqm13ts1l317mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANP9xB0Itp7vxbZtNAR8OIZbES2C48Hhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676798346224-mfein7oao68c52g20hjqm13ts1l317mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
